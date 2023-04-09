@@ -44,3 +44,9 @@ server.key
 
 # octoforce files
 auth/sandbox-login-url*.txt
+
+# ignore monolithic profiles in favor of decomposed
+force-app/main/default/profiles/*-meta.xml
+
+# ignore monolithic permissionsets in favor of decomposed
+force-app/main/default/permissionsets/*-meta.xml
