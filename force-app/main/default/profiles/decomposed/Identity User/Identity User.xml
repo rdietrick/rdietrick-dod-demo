@@ -69,14 +69,6 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
-    <classAccesses>
-        <apexClass>TrialCustomerPortalHomePageController</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>superSort</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
     <custom>false</custom>
     <pageAccesses>
         <apexPage>ChatterAnswersAgentView</apexPage>
@@ -104,10 +96,6 @@
     </pageAccesses>
     <pageAccesses>
         <apexPage>ChatterAnswersRegistration</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
-        <apexPage>TrialCustomerPortalHomePage</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
     <pageAccesses>
